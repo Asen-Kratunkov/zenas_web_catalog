@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit title ('Web Catalog')
+streamlit.title ('Web Catalog')
